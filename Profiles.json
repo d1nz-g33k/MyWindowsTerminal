@@ -13,7 +13,7 @@
       "cursorShape": "vintage",
       "useAcrylic": true,
       "acrylicOpacity": 0.15,
-      "backgroundImage": "C:/Users/dines/Pictures/t3.png",
+      "backgroundImage": "t3.png", //Add path here to the image
       "backgroundImageOpacity": 0.5
     },
     "list": [
